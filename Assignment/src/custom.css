@@ -1,0 +1,12 @@
+.main-content {
+    display: flex;
+    padding-top: 20px;
+    position: relative;
+    bottom: 4rem;
+    margin-top: 7rem;
+  }
+  body {
+    font-family: Arial, sans-serif;
+    height: 1024px;
+    box-sizing: border-box;
+  }
